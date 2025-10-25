@@ -1,5 +1,8 @@
 # CISCO BLACK BELT TRAINNING 2025
 
+<img src="pics/02.jpg" height="380" width="1200">
+
+
 ## Wireless Deployment
 
 * [Stage 1 - Quiz](https://github.com/lupastec/bb/blob/main/01-Wireless%20Deployment/stage-01/quiz/01-Black%20Belt%20Wireless%20Deployment%20-%20STAGE1%20QUIZ.md)
