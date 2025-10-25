@@ -1,6 +1,6 @@
 # CISCO BLACK BELT TRAINNING 2025
 
-<img src="https://github.com/lupastec/bb/blob/main/pics/02.jpg" height="380" width="1200">
+<img src="github.com/lupastec/bb/blob/main/pics/02.jpg" height="380" width="1200">
 
 
 ## Wireless Deployment
