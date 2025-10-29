@@ -9,7 +9,7 @@
 
 ### Expected Flag Format: Use Case 1/Use Case 2/Use Case X
 
-* *secure internet access/secure private access/interconnect* 
+* ***secure internet access/secure private access/interconnect*** 
 
 
 ## 2. SASE PACKAGE
@@ -18,10 +18,8 @@
 
 ### Select all that apply from the below choices:
 
-* *Cisco Secure Connect Complete*
-* Cisco Secure Connect Advantage
-* Cisco Secure Connect Essentials
-* *Cisco Secure Connect Foundation*
+* ***Cisco Secure Connect Complete***
+* ***Cisco Secure Connect Foundation***
 
 
 ## 3. AUTHENTICATING USERS
@@ -34,7 +32,7 @@
 
 ### How many users are registered and can have security policies applied in this organization?
 
-* *4*
+* ***4***
 
 
 ## 5. CONFIGURING REMOTE ACCESS
@@ -43,7 +41,7 @@
 
 ### Select all that apply from the below choices:
 
-* *não sei a resposta!!!! Se alguém souber, favor enviar, que eu atualizo aqui*
+* ***não sei a resposta!!!! Se alguém souber, favor enviar, que eu atualizo aqui***
 
 
 ## 6. SECURING ACCESS TO PRIVATE APPLICATIONS
@@ -51,7 +49,7 @@
 ### Cisco Secure Connect secures access to private network destinations and applications via site-to-site VPN tunnels, client-based tunnels (Cisco Secure Client VPN) with identity-based control, and clientless per-app access using any browser. A private application is an application that is hosted within a private datacenter or private cloud. Cisco Secure Connect enables organizations to control access to an application to users connecting via client-based remote access or clientless remote access (ZTNA). How many private applications are currently configured in this organization?
 
 
-* *2*
+* ***2***
 
 
 ## 7. CLIENTLESS REMOTE ACCESS (ZTNA)
@@ -62,7 +60,7 @@
 
 ### When configuring a Browser Based Access Posture what are the 2 items you can add to the Endpoint Posture profile?
 
-* *operating system/browsers*
+* ***operating system/browsers***
 
 
 ## 8. CONFIGURING BROWSER ACCESS POLICIES 
@@ -71,7 +69,7 @@
 
 ### There are currently 2 browser access policies configured. Doctors who don´t have the Secure client installed will fall under what endpoint posture profile?
 
-* *browser requirements* 
+* ***browser requirements*** 
 
 
 ## 9. CISCO SECURE CONNECT INTERNET ACCESS
@@ -80,10 +78,10 @@
 
 ### What are they?
 
-* *DNS*
-* *Cloud Firewall*
-* *WEB*
-* *DLP*
+* ***DNS***
+* ***Cloud Firewall***
+* ***WEB***
+* ***DLP***
 
 
 ## 10. INTERNET ACCESS POLICIES DNS PROTECTION
@@ -91,7 +89,7 @@
 ### Domain Name System (DNS) protection is your first line of defense. Nothing stops attacks earlier than DNS-layer security. Secure Connect has implemented a pre-defined DNS access policy. Each policy can contain multiple settings.
 ### How many settings does the Default DNS policy currently contain?
 
-* *5*
+* ***5***
 
 
 ## 11. CLOUD FIREWALL 
@@ -105,7 +103,7 @@
 
 ### Expected Flag Format: use the format 1.1.1.1/2.2.2.2 or 1.1.1.1/fqdn.abc.com
 
-* *ABC HCC/172.21.10.0/24*
+* ***não sei a resposta!!!! Se alguém souber, favor enviar, que eu atualizo aqui***
 
 
 ## 12. SECURE WEB GATEWAY
@@ -114,7 +112,7 @@
 
 ### Currently, there is a Web policy called "Block Social Networking". What is the status of the HTTPS inspection feature?
 
-* *enabled*
+* ***enabled***
 
 
 ## 13. DATA LOSS PREVENTION
@@ -125,7 +123,7 @@
 
 ### Expected Flag Format: use the format option1/option2
 
-* *all destinations*
+* ***all destinations***
 
 
 ## 14. SEARCHING
@@ -134,7 +132,7 @@
 
 ### What's the name of this feature?
 
-* *motion search*
+* ***motion search***
 
 
 ## 15. AUTOMATE YOUR WORLD
@@ -143,7 +141,7 @@
 
 ### What is the collective name given to the group of Cisco Meraki APIs that you can use to automate administrative tasks in your network?
 
-* *dashboard API*
+* ***dashboard API***
 
 
 ## 16. RESPONSIVE ALERTING
@@ -152,7 +150,7 @@
 
 ### What is the name of the Cisco Meraki programmable function that can perform this kind of action?
 
-* *webhooks*
+* ***webhooks***
 
 
 ## 17. TRACKING USERS WITH APIs
@@ -161,4 +159,4 @@
 
 ### What is the name of the Cisco Meraki APIs that can provide this information in a streaming fashion?
 
-* *scanning API*
+* ***scanning API***

@@ -8,7 +8,7 @@
 
 ### [Please input your flag in x/y format to unlock this challenge - where x is the operational mode and y the client tracking mode.]
 
-* *routed/unique client identifier* 
+* ***routed/unique client identifier*** 
 
 
 ## 2. KNOW YOUR NETWORK - SFO
@@ -17,7 +17,7 @@
 
 ### [Please input your flag in x/y format to unlock this challenge, where each of the letters corresponds to a configured VLAN, from lowest to highest; eg - 1/2/3/4]
 
-* *1/50*
+* ***1/50***
 
 
 ## 3. THE SFO BRANCH CONNECTIVITY 
@@ -29,7 +29,7 @@
 
 ### [Please submit your flag in the format location1/location2/location3/location5/etc., ordered alphabetically. If there are no connections, simply submit the answer 'None' to unlock this challenge.]
 
-* *None*
+* ***None***
 
 
 ## 4. LET'S TAlK TO SFO
@@ -38,7 +38,7 @@
 
 ### Please input your flag in the format peer1.
 
-* *não sei a resposta!!!! Se alguém souber, favor enviar, que eu atualizo aqui*
+* ***não sei a resposta!!!! Se alguém souber, favor enviar, que eu atualizo aqui***
 
 
 ## 5. ENFORCE COMPANY POLICY
@@ -48,7 +48,7 @@
 
 ### Please input your flag in the format category1/category2/category3/etc. in alphabetical order
 
-* *adult/child abuse content/pornography*
+* ***adult/child abuse content/pornography***
 
 
 ## 6. PATH OF LEAST RESISTANCE
@@ -57,35 +57,35 @@
 
 ### What is the name of the custom performance class configured at London's MX which matches the metrics described?
 
-* *high quality real time services*
+* ***high quality real time services***
 
 
 ## 7. INSTALL ME WI-FE
 
 ### In this Capture the Flag mission you will navigate the Catalyst Center Trends and Insights of AI-Network Analytics. Become a seasoned wireless engineer and analyze RF data relative to referenced radios operation under optimal conditions through the eyes of Catalyst Center AI Endpoint Analytics. You will also assess the impacted clients to understand the scope of a poor performing access point. To Capture this flag, what is the number of clients that are impacted by the high co-channel interference on access point SFO15-C9136-01?
 
-* *access points*
+* ***access points***
 
 
 ## 8. CAPTIVE WI-FI - SFO 
 
 ### You need to figure out what is the SSID configured to use a captive portal and no authentication in San Francisco office.
 
-* *CMP-CAMPUS-SFO-Lobby* 
+* ***CMP-CAMPUS-SFO-Lobby*** 
 
 
 ## 9. OPEN FOR BUSINESS
 
 ### You need to make the SSID advertised by your AP functional only during business hours every single day. What is the schedule template name you should apply on it?
 
-* *available 8-5 daily*
+* ***available 8-5 daily***
 
 
 ## 10. CUSTOMIZE MY SIGNAL 
 
 ### Now that you have basic AP info, you will need to configure RF profiles for your Wi-Fi network. In what section of the dashboard would you configure RF profiles?
 
-* *radio settings*
+* ***radio settings***
 
 
 ## 11. NEEDLE IN A HAYSTACK - WI-FI EDITION 
@@ -96,7 +96,7 @@
 
 ### What is the name of the Report in dashboard that can show, all at once, the most common Wi-Fi problems (e.g., # of failed connections, # of devices with problems, # of failed connections per problematic client) in a given network?
 
-* *health*
+* ***health***
 
 
 ## 12. VISION 2020
@@ -105,7 +105,7 @@
 ### Centralized cloud management, "everything’s" in the box, super-secure, and bandwidth-conscious are some of the benefits of the solution.
 ### Your first task related to the cameras is to check how many you have in the London. Enter the flag with the number of cameras installed in the London office.
 
-* *2*
+* ***2***
 
 
 ## 13. WALLED VISION
@@ -114,7 +114,7 @@
 
 ### What is the name of the video wall in London which includes all the MVs installed at the venue?
 
-* *video wall - london*
+* ***video wall - london***
 
 
 ## 14. SEARCHING
@@ -123,7 +123,7 @@
 
 ### What's the name of this feature?
 
-* *motion search*
+* ***motion search***
 
 
 ## 15. AUTOMATE YOUR WORLD
@@ -132,7 +132,7 @@
 
 ### What is the collective name given to the group of Cisco Meraki APIs that you can use to automate administrative tasks in your network?
 
-* *dashboard API*
+* ***dashboard API***
 
 
 ## 16. RESPONSIVE ALERTING
@@ -141,7 +141,7 @@
 
 ### What is the name of the Cisco Meraki programmable function that can perform this kind of action?
 
-* *webhooks*
+* ***webhooks***
 
 
 ## 17. TRACKING USERS WITH APIs
@@ -150,4 +150,4 @@
 
 ### What is the name of the Cisco Meraki APIs that can provide this information in a streaming fashion?
 
-* *scanning API*
+* ***scanning API***
