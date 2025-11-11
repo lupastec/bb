@@ -123,7 +123,7 @@
 
 ## Assesment Result - 1300/1500 points (87%) - required 1200 points (80%) for approvation
 
-* **`CVD`** - Total questions 69 - **800/900 (89%)**
+* **`CVD`** - Total questions 9 - **800/900 (89%)**
 * **`Silicon One`** - Total questions 2 - **200/200 (100%)**
 * **`IOS XE`** - Total questions 2    - **100/200 (50%)**
 * **`Smart Switches`** - Total questions 2 - **200/200 (100%)**
