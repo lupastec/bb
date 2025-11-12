@@ -57,7 +57,7 @@
 * ***To act as an aggregation point, provide Layer 2 boundary, introduce Layer 3, and manage congestion with QoS.***
 
 
-## 8. WWhich of the following is NOT listed as an attribute of the Access Layer in the design fundamentals?
+## 8. Which of the following is NOT listed as an attribute of the Access Layer in the design fundamentals?
 
 * Provides endpoints and users direct access to the network.
 * Supports Wireless LAN access APs.
