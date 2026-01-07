@@ -76,7 +76,7 @@
 
 * Auto Mode
 * ***Manual Mode***
-Both the modes
+* Both the modes
 
 
 ## Assesment Result - 800/1000 points (80%) - required 800 points (80%) for approvation
