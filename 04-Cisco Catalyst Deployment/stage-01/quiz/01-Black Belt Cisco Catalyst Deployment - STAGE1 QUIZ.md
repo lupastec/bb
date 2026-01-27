@@ -72,7 +72,7 @@
 * False
 
 
-## 10. WIn which of the following mode of Catalyst Center VA Deployment do we use templates from AWS marketplace?
+## 10. In which of the following mode of Catalyst Center VA Deployment do we use templates from AWS marketplace?
 
 * Auto Mode
 * ***Manual Mode***
