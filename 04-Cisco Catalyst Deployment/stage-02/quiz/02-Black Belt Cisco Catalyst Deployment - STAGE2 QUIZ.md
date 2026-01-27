@@ -1,7 +1,7 @@
 # Black Belt - Cisco Catalyst Deployment - STAGE 2 QUIZ
 
 
-## 1. WWhich of the below Node helps to determine Active Site & Recovery Site in Catalyst Center?
+## 1. Which of the below Node helps to determine Active Site & Recovery Site in Catalyst Center?
 
 * Control Plan Node
 * Data Plane Node
